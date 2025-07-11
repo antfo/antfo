@@ -81,3 +81,79 @@
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>  -->
+
+
+<!--
+
+# 👨‍💻 Arunav Vashishta  
+**Machine Learning Engineer | Open Source Enthusiast | Linux Administrator in Training**  
+
+🚀 Currently working at **Algoleap Tech**, Hyderabad  
+🎓 Graduated in **Computer Science & Engineering (AI & ML)** in September 2024  
+🎯 Pursuing **RHCSA Linux Admin Certification** to master system-level operations  
+
+---
+
+## 🌟 About Me  
+Hi there! I'm **Arunav Vashishta**, a passionate engineer exploring the synergy between **machine learning**, **real-time systems**, and **Linux administration**. I enjoy building end-to-end solutions that solve critical problems with automation, intelligence, and clarity.
+
+### 💡 Interests  
+- Developing **intelligent ML systems** with real-world impact  
+- Contributing to **open-source tools and observability stacks**  
+- Building **streaming pipelines** with modern data tools  
+- Creating **automated document intelligence systems**  
+- Continuously learning to level up in the **cloud-native and Linux** ecosystem  
+
+---
+
+## 🔧 My Toolbox  
+- **Languages**: Python, SQL, Bash  
+- **Frameworks**: Flask, FastAPI, scikit-learn, LightGBM  
+- **Tooling**: Prometheus, Grafana, Kafka, Elasticsearch, Fluentd  
+- **Databases**: PostgreSQL, MySQL  
+- **DevOps & OS**: Linux (RHEL 9), Shell Scripting, System Monitoring  
+- **Version Control**: Git, GitHub  
+
+---
+
+## 🏗️ Featured Projects  
+
+### ✅ Completed Projects  
+- **DDoS Attack Early Detection System (CICIDS LDAP)**  
+  Real-time detection and forecasting system for network anomalies using machine learning. Integrated with **Grafana**, **Kafka**, and **Fluentd** for live monitoring.  
+  *Tech Stack: Python, LightGBM, CICIDS2019, Prometheus, InfluxDB*
+
+- **Utility Bill OCR + BRSR Principle 6 Reporting**  
+  Document pipeline that ingests scanned bills (PDFs), extracts environmental KPIs using OCR and LLMs, and generates ESG reports aligned with SEBI BRSR Principle 6.  
+  *Tech Stack: Flask, PyTesseract, PDFPlumber, OpenAI GPT, Pandas*
+
+- **BigQuery + GPT Smart Assistant**  
+  Built a Flask-based agent system powered by LLMs to generate insightful business summaries from BigQuery using metadata-driven query normalization.  
+  *Tech Stack: Flask, GPT-4, BigQuery, LangChain-style architecture*
+
+### 🚧 Ongoing  
+- **Real-Time AIOps Anomaly Detection Platform**  
+  Scalable ML pipeline for real-time log ingestion, anomaly detection, and visualization with alerting.  
+  *Python, Prometheus, Fluentd, Kafka, Grafana*
+
+- **Linux Admin Learning Track**  
+  Practicing advanced shell scripting, user management, storage, and services for the **RHCSA** certification.
+
+---
+
+## 🌐 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arunav-vashista?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 📧 arunavvashista@gmail.com  
+- 💻 [GitHub](https://github.com/Aruna11-02)  
+
+---
+
+## 📊 GitHub Stats  
+![Arunav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruna11-02&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruna11-02&layout=compact&theme=radical)  
+
+---
+
+🌟 *"The magic you are looking for lies in the work you are not doing — so start doing it."*
+
+-->
